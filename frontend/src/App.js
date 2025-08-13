@@ -90,7 +90,7 @@ const Footer = () => (
                 <a href="mailto:ayyappasevasamithikailasagiri@gmail.com" className="flex items-center space-x-2 text-gray-300 hover:text-orange-400"><Mail size={16} /><span>Email Us</span></a>
             </div>
             <div className="border-t border-gray-700 mt-6 pt-6">
-                <p className="text-gray-500">© Sai Krishna Gandla. All rights reserved.</p>
+                <p className="text-gray-500">© DC. All rights reserved.</p>
             </div>
         </div>
     </footer>
